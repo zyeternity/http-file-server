@@ -21,6 +21,7 @@ npm install
 ```
 4. Start the server (the default port is 3000, you can modify the port parameter in index.js to change the port)
 ```bash
+mkdir uploads
 nodjs index.js
 ```
 ## Client Operations

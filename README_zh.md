@@ -21,6 +21,7 @@ npm install
 ```
 4. 启动服务 (默认端口为3000,可通过修改index.js中的port参数来修改端口)
 ```bash
+mkdir uploads
 nodjs index.js
 ```
 ## 客户端操作
